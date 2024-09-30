@@ -1,279 +1,145 @@
 {
   "news": [
     {
-      "category": "science",
-      "id": "1",
-      "title": "Descubren Agua en la Luna",
-      "image": "https://example.com/luna_agua.jpg",
-      "content": "Un equipo de científicos ha confirmado la presencia de agua en la Luna, lo que podría facilitar futuras misiones espaciales y la creación de bases permanentes en el satélite natural de la Tierra. Este descubrimiento es particularmente importante porque podría reducir la necesidad de transportar agua desde la Tierra, lo que haría más viables las misiones de larga duración. Las investigaciones sugieren que el agua se encuentra en forma de hielo, principalmente en las regiones polares de la Luna. Esto abre nuevas posibilidades para la exploración espacial y el asentamiento humano en el futuro.",
-      "author": "María López",
-      "date": "2024-09-15",
-      "views": 12000
-    },
-    {
-      "category": "science",
-      "id": "2",
-      "title": "Nuevo Avance en la Cura del Cáncer",
-      "image": "https://example.com/cancer_terapia.jpg",
-      "content": "Un equipo de investigadores ha desarrollado una nueva terapia genética que puede atacar células cancerígenas de manera más eficiente. Este avance promete revolucionar el tratamiento del cáncer, ofreciendo una opción más personalizada y menos invasiva que los tratamientos tradicionales como la quimioterapia. La terapia se basa en la modificación genética de las células inmunitarias del paciente para que puedan detectar y eliminar las células cancerosas con mayor precisión. Aunque el tratamiento aún se encuentra en fase experimental, los resultados preliminares son muy prometedores y podrían marcar un antes y un después en la lucha contra esta enfermedad.",
-      "author": "Juan Pérez",
-      "date": "2024-09-12",
-      "views": 18500
-    },
-    {
-      "category": "science",
-      "id": "3",
-      "title": "Inteligencia Artificial Descubre Nuevas Moléculas",
-      "image": "https://example.com/ia_moleculas.jpg",
-      "content": "Investigadores han utilizado inteligencia artificial (IA) para identificar nuevas moléculas que podrían ser utilizadas en la creación de fármacos. La IA ha demostrado ser una herramienta invaluable en la búsqueda de compuestos químicos con propiedades terapéuticas. Este enfoque podría acelerar significativamente el proceso de desarrollo de medicamentos, que tradicionalmente lleva años o incluso décadas. Gracias a algoritmos avanzados, la IA puede analizar grandes volúmenes de datos químicos en cuestión de horas, lo que permite a los científicos identificar rápidamente los compuestos más prometedores. Esta tecnología también podría reducir los costos asociados con el desarrollo de nuevos medicamentos.",
-      "author": "Ana Rodríguez",
-      "date": "2024-09-10",
-      "views": 9500
-    },
-
-    {
-      "category": "travel",
-      "id": "4",
-      "title": "El Misterio de las Montañas Arcoíris en Perú",
-      "image": "https://example.com/montanas_arcoiris.jpg",
-      "content": "Las impresionantes Montañas Arcoíris en Perú se han convertido en un destino turístico imperdible para aventureros de todo el mundo. Sus vibrantes colores naturales, que van desde el rojo hasta el verde y el amarillo, son el resultado de la erosión de diferentes minerales a lo largo de millones de años. Estas montañas se encuentran en la región de Cusco, y el trekking hasta la cima es una experiencia desafiante pero extremadamente gratificante. Además de su belleza natural, las Montañas Arcoíris tienen un profundo significado cultural para las comunidades locales, que las consideran sagradas.",
-      "author": "Carlos García",
-      "date": "2024-08-25",
-      "views": 17000
-    },
-    {
-      "category": "travel",
-      "id": "5",
-      "title": "Japón Abre un Hotel en un Templo Budista",
-      "image": "https://example.com/templo_budista_hotel.jpg",
-      "content": "En Kioto, un antiguo templo budista ha sido renovado y ahora funciona como un elegante hotel boutique, ofreciendo a los visitantes la oportunidad de experimentar la serenidad y el misticismo del lugar. Este hotel único combina la historia y la espiritualidad del templo con las comodidades modernas, permitiendo a los huéspedes participar en rituales budistas como la meditación y la ceremonia del té. Los visitantes pueden también disfrutar de los hermosos jardines del templo, que proporcionan un refugio de tranquilidad en medio de la bulliciosa ciudad. Este proyecto ha sido elogiado por su enfoque en preservar el patrimonio cultural japonés.",
-      "author": "Laura Fernández",
-      "date": "2024-09-01",
-      "views": 14500
-    },
-    {
-      "category": "travel",
-      "id": "6",
-      "title": "Viaje en Tren por los Alpes Suizos",
-      "image": "https://example.com/tren_alpes.jpg",
-      "content": "Una nueva ruta turística en tren ofrece a los pasajeros la oportunidad de disfrutar de vistas espectaculares de los Alpes Suizos, atravesando paisajes montañosos que parecen sacados de una postal. Este recorrido ha sido diseñado para maximizar la experiencia visual, con grandes ventanales y vagones cómodos que permiten a los pasajeros relajarse mientras admiran los imponentes picos, los valles verdes y los ríos cristalinos. Además de las vistas, los pasajeros también pueden disfrutar de una gastronomía local de alta calidad servida a bordo. Este nuevo servicio turístico ha sido un éxito entre los amantes de la naturaleza y los entusiastas del tren.",
-      "author": "Sofía Martínez",
-      "date": "2024-08-15",
-      "views": 11000
-    },
-
-    {
+      "categories": "culture",
+      "id": 8,
       "category": "culture",
-      "id": "7",
-      "title": "Nuevo Álbum de BTS Rompe Récords",
-      "image": "https://example.com/bts_album.jpg",
-      "content": "El grupo surcoreano BTS ha lanzado un nuevo álbum que ha arrasado en todo el mundo, rompiendo varios récords en plataformas de streaming. Los fans del grupo, conocidos como ARMY, han recibido el álbum con gran entusiasmo, lo que ha llevado a su rápida escalada en las listas de popularidad globales. Este nuevo lanzamiento no solo demuestra la influencia continua de BTS en la industria musical, sino que también solidifica su posición como uno de los grupos más influyentes de la última década. Con su estilo único y mensajes poderosos, BTS sigue conectando con millones de personas alrededor del mundo.",
-      "author": "Luis Ramírez",
-      "date": "2024-09-05",
-      "views": 22000
-    },
-    {
-      "category": "culture",
-      "id": "8",
       "title": "Nuevas Tendencias en la Moda Urbana",
       "image": "https://example.com/moda_urbana.jpg",
       "content": "La moda urbana ha experimentado una evolución significativa, con nuevas tendencias que están marcando el camino entre los jóvenes. El estilo 'streetwear' ha adoptado un enfoque más sostenible y minimalista, con marcas emergentes que apuestan por el uso de materiales reciclados y prácticas éticas de producción. Esta transición refleja un cambio en las prioridades de los consumidores, que ahora valoran la sostenibilidad tanto como el estilo. Además, la moda urbana sigue siendo una forma clave de expresión personal y cultural, con diseños que incorporan influencias del arte callejero y las subculturas urbanas.",
       "author": "Andrea Morales",
-      "date": "2024-08-30",
+      "date": "2024/05/05",
       "views": 13000
     },
     {
+      "categories": "culture",
+      "id": 9,
       "category": "culture",
-      "id": "9",
       "title": "Cultura Graffiti en las Grandes Ciudades",
       "image": "https://example.com/graffiti_cultura.jpg",
       "content": "El graffiti se ha consolidado como una forma legítima de arte urbano y protesta social en muchas de las grandes ciudades del mundo, como Nueva York, Berlín y Ciudad de México. Lo que alguna vez fue considerado vandalismo, ahora es reconocido como una poderosa herramienta de expresión artística, utilizada para abordar temas sociales, políticos y culturales. Los artistas de graffiti están ganando un reconocimiento cada vez mayor en el mundo del arte contemporáneo, y algunas de sus obras incluso han llegado a galerías y museos. Este cambio en la percepción del graffiti refleja una evolución en cómo las sociedades urbanas valoran el arte y la protesta.",
       "author": "Fernando Gutiérrez",
-      "date": "2024-09-08",
+      "date": "2024/06/15",
       "views": 12500
     },
-
     {
+      "categories": "sustainability",
+      "id": 10,
       "category": "sustainability",
-      "id": "10",
       "title": "Nuevas Energías Renovables Impulsan el Futuro",
       "image": "https://example.com/energias_renovables.jpg",
       "content": "Las energías renovables están creciendo rápidamente y se están convirtiendo en un pilar clave en la lucha contra el cambio climático. La energía solar y eólica son las principales protagonistas de esta revolución, y su expansión global está proporcionando alternativas más limpias y sostenibles frente a los combustibles fósiles. Muchos países han incrementado su inversión en infraestructura renovable, y las tecnologías continúan mejorando, lo que reduce los costos y aumenta la eficiencia. Esta transición hacia energías más limpias es crucial no solo para reducir las emisiones de carbono, sino también para crear un futuro más sostenible para las próximas generaciones.",
       "author": "Carolina Navarro",
-      "date": "2024-09-14",
+      "date": "2024/04/10",
       "views": 18000
     },
     {
+      "categories": "sustainability",
+      "id": 11,
       "category": "sustainability",
-      "id": "11",
       "title": "Supermercados Libres de Plástico: Una Realidad",
       "image": "https://example.com/supermercado_sin_plastico.jpg",
       "content": "Varios supermercados en Europa y América Latina han comenzado a eliminar el uso de plásticos de un solo uso en sus productos, promoviendo el uso de envases reutilizables y biodegradables. Esta iniciativa está ganando tracción como una solución eficaz para reducir la contaminación por plásticos, que representa una amenaza significativa para los ecosistemas marinos y terrestres. Algunos supermercados han implementado secciones libres de plástico, donde los productos se venden a granel y los clientes pueden llevar sus propios envases reutilizables. Esta tendencia refleja un cambio en los hábitos de consumo y un mayor enfoque en la sostenibilidad.",
       "author": "Miguel Sánchez",
-      "date": "2024-08-20",
+      "date": "2024/08/20",
       "views": 14500
     },
     {
+      "categories": "sustainability",
+      "id": 12,
       "category": "sustainability",
-      "id": "12",
       "title": "Ciudades Sostenibles: El Futuro Urbano",
       "image": "https://example.com/ciudades_sostenibles.jpg",
       "content": "Las ciudades verdes y sostenibles están transformando la vida urbana, ofreciendo soluciones innovadoras para reducir el impacto ambiental y mejorar la calidad de vida de sus habitantes. Iniciativas en ciudades como Copenhague y Singapur están liderando el camino hacia un futuro más ecológico, con la creación de espacios verdes, la promoción de la movilidad eléctrica y la implementación de tecnologías inteligentes para gestionar los recursos de manera eficiente. Estas ciudades están adoptando un enfoque holístico hacia la sostenibilidad, integrando prácticas ecológicas en todas las facetas de la vida urbana, desde la construcción de edificios hasta el transporte público.",
       "author": "Lucía Ortega",
-      "date": "2024-09-02",
+      "date": "2024/09/02",
       "views": 16500
     },
-
     {
+      "id": 13,
       "category": "lifestyle",
-      "id": "13",
       "title": "Los Juegos Olímpicos 2024 Serán Más Verdes",
       "image": "https://example.com/juegos_olimpicos_verdes.jpg",
       "content": "Los organizadores de los Juegos Olímpicos de París 2024 han anunciado que será el evento olímpico más ecológico hasta la fecha. El objetivo es reducir significativamente las emisiones de carbono mediante el uso de energía renovable en las instalaciones y el transporte, así como la implementación de medidas de reciclaje y reducción de residuos. Los estadios están siendo construidos con materiales sostenibles, y se espera que el impacto ambiental del evento sea mucho menor en comparación con ediciones anteriores. Este enfoque en la sostenibilidad refleja un compromiso creciente por parte de las organizaciones deportivas de minimizar su huella ecológica.",
       "author": "Pedro Ruiz",
-      "date": "2024-09-10",
+      "date": "2024/09/10",
       "views": 19000
     },
     {
+      "id": 15,
       "category": "lifestyle",
-      "id": "14",
-      "title": "Maratón Mundial Virtual: Un Éxito",
-      "image": "https://example.com/maraton_virtual.jpg",
-      "content": "Miles de corredores de todo el mundo participaron en la primera maratón virtual global, una iniciativa que permitió a los participantes correr desde sus propios países utilizando tecnología para seguir sus rutas y tiempos en tiempo real. Esta maratón fue organizada como una alternativa a los eventos presenciales, permitiendo que los corredores se unieran a la competición sin tener que viajar. Los participantes simplemente descargaron una aplicación que registraba su progreso y lo comparaba con otros corredores en todo el mundo. Esta innovadora solución ha sido un éxito, y muchos esperan que se convierta en una parte regular del calendario deportivo.",
-      "author": "Claudia Gómez",
-      "date": "2024-09-05",
-      "views": 13000
-    },
-    {
-      "category": "lifestyle",
-      "id": "15",
       "title": "El Futuro del Fútbol Femenino",
       "image": "https://example.com/futbol_femenino.jpg",
       "content": "El fútbol femenino sigue ganando popularidad a nivel mundial, con audiencias récord y más ligas profesionales que nunca. La creciente visibilidad de los torneos de fútbol femenino, como la Copa Mundial Femenina, ha jugado un papel crucial en este crecimiento. Más patrocinadores están invirtiendo en el deporte, y las jugadoras están recibiendo salarios más competitivos. Esta evolución no solo está transformando el fútbol femenino en un espectáculo global, sino que también está abriendo nuevas oportunidades para las mujeres en el deporte, tanto dentro como fuera del campo. La igualdad de género en el deporte sigue siendo un tema importante, y el fútbol femenino está a la vanguardia de este cambio.",
       "author": "Sara Delgado",
-      "date": "2024-08-25",
+      "date": "2024/08/25",
       "views": 16500
     },
     {
+      "id": 16,
       "category": "lifestyle",
-      "id": "16",
-      "title": "Nuevas Vacunas contra la Gripe para el 2024",
-      "image": "https://example.com/vacunas_gripe.jpg",
-      "content": "Las nuevas vacunas contra la gripe para el 2024 prometen ofrecer una mayor protección contra las variantes del virus, con una duración más prolongada de la inmunidad. Los científicos han estado trabajando en estas vacunas para mejorar su efectividad y reducir los casos de gripe estacional, que afectan a millones de personas cada año. Estas nuevas fórmulas también están diseñadas para ser más accesibles para personas de todas las edades, lo que podría disminuir significativamente la carga sobre los sistemas de salud durante la temporada de gripe. La producción masiva ya ha comenzado, y se espera que las vacunas estén disponibles en los próximos meses.",
-      "author": "Jorge Núñez",
-      "date": "2024-09-15",
-      "views": 10000
-    },
-    {
-      "category": "lifestyle",
-      "id": "17",
-      "title": "La Importancia de la Salud Mental en Jóvenes",
-      "image": "https://example.com/salud_mental_jovenes.jpg",
-      "content": "La salud mental en adolescentes y jóvenes adultos ha cobrado una importancia creciente en los últimos años, con expertos advirtiendo sobre el impacto de las redes sociales, el estrés académico y la presión social en su bienestar. Las tasas de ansiedad y depresión han aumentado significativamente, lo que ha llevado a un mayor enfoque en la prevención y el tratamiento de problemas de salud mental en este grupo de edad. Se están implementando programas en escuelas y universidades para ayudar a los estudiantes a manejar el estrés y desarrollar resiliencia emocional. También se están promoviendo campañas para reducir el estigma asociado con la búsqueda de ayuda profesional.",
-      "author": "Patricia León",
-      "date": "2024-09-12",
-      "views": 14000
-    },
-    {
-      "category": "lifestyle",
-      "id": "18",
-      "title": "Hábitos Alimenticios para un Corazón Saludable",
-      "image": "https://example.com/alimentos_corazon.jpg",
-      "content": "Una dieta equilibrada es clave para mantener la salud del corazón, y los expertos en nutrición recomiendan una mayor ingesta de frutas, vegetales y grasas saludables. Reducir el consumo de alimentos procesados y ricos en grasas saturadas también puede ayudar a prevenir enfermedades cardiovasculares. Los estudios recientes han demostrado que una dieta rica en ácidos grasos omega-3, como los que se encuentran en el pescado, puede reducir el riesgo de ataques cardíacos y mejorar la salud general del corazón. Además, el ejercicio regular y la reducción del estrés son componentes importantes de un estilo de vida saludable para el corazón.",
-      "author": "Raúl García",
-      "date": "2024-09-01",
-      "views": 12500
-    },
-
-    {
-      "category": "civic",
-      "id": "19",
       "title": "Nuevas Normas de Privacidad en Internet para Niños",
       "image": "https://example.com/privacidad_infantil.jpg",
       "content": "Nuevas leyes en varios países han impuesto límites más estrictos sobre cómo las empresas pueden recopilar y utilizar los datos de niños menores de 13 años. Estas regulaciones buscan proteger la privacidad infantil en línea, en un momento en que las preocupaciones sobre el uso indebido de datos personales están en aumento. Los padres ahora tienen más control sobre la información que se comparte en plataformas digitales, y las empresas enfrentan sanciones severas si no cumplen con estas nuevas normativas. Estas medidas han sido bien recibidas por defensores de la privacidad y derechos digitales.",
       "author": "Laura Muñoz",
-      "date": "2024-08-20",
+      "date": "2024/08/20",
       "views": 12000
     },
     {
-      "category": "civic",
-      "id": "20",
+      "id": 17,
+      "category": "lifestyle",
       "title": "Apps Educativas Bajo la Lupa por Seguridad",
       "image": "https://example.com/apps_educativas_seguridad.jpg",
       "content": "Diversas plataformas educativas que son utilizadas por millones de niños en todo el mundo están siendo revisadas para asegurar que cumplen con las normativas de seguridad infantil, tras varios incidentes recientes en los que se violaron datos de menores. Los expertos en seguridad cibernética advierten que muchas de estas apps no cuentan con suficientes medidas de protección, lo que deja a los usuarios vulnerables a ciberataques y robo de datos. Las empresas responsables de estas aplicaciones están trabajando para mejorar sus sistemas de seguridad y garantizar que la información de los niños esté protegida.",
       "author": "Andrés Silva",
-      "date": "2024-09-10",
-      "views": 13500
+      "date": "2024/09/10",
+      "views": 15
     },
     {
-      "category": "civic",
-      "id": "21",
+      "id": 18,
+      "category": "lifestyle",
       "title": "Protección Legal para Compras Online Infantiles",
       "image": "https://example.com/proteccion_compras_online.jpg",
       "content": "Nuevas leyes han sido implementadas en varios países para proteger a los niños de realizar compras no autorizadas en línea, a menudo sin el conocimiento de sus padres. Estas compras, que se realizan a través de aplicaciones y videojuegos, han generado miles de quejas de padres que se han visto sorprendidos por cargos en sus cuentas bancarias. Las medidas incluyen la implementación de controles parentales más estrictos y la necesidad de verificación adicional antes de que se puedan realizar transacciones. Estas regulaciones buscan frenar el abuso y proteger tanto a los menores como a sus familias de los gastos inesperados.",
       "author": "Elena Vargas",
-      "date": "2024-09-05",
-      "views": 14000
+      "date": "2024/09/05",
+      "views": 25
+    },
+    {
+      "category": "",
+      "title": "CRUD en React",
+      "image": "",
+      "content": "probando react",
+      "author": "Javiana",
+      "date": "2024-09-30T14:04:11.122Z",
+      "views": 0,
+      "id": 19
+    },
+    {
+      "category": "lifestyle",
+      "title": "asdasdasd",
+      "image": "",
+      "content": "asdasdasd",
+      "author": "aasasdasd",
+      "date": "2024-09-30T14:13:28.685Z",
+      "views": 0,
+      "id": 20
+    },
+    {
+      "category": "",
+      "title": "hola que tal",
+      "image": "",
+      "content": "asdasdawdadw",
+      "author": "Javi",
+      "date": "2024-09-30T14:17:27.636Z",
+      "views": 0,
+      "id": 21
     }
   ],
-
   "comments": [
     {
-      "id": 1,
-      "author": "Carlos Méndez",
-      "comment": "Increíble descubrimiento, esto cambiará el futuro de las misiones espaciales.",
-      "likes": 123
-    },
-    {
-      "id": 1,
-      "author": "Lucía Romero",
-      "comment": "Me encantaría saber más sobre cómo utilizarán este recurso en futuras colonias.",
-      "likes": 89
-    },
-    {
-      "id": 2,
-      "author": "Javier Torres",
-      "comment": "Este avance es muy prometedor, podría salvar millones de vidas.",
-      "likes": 200
-    },
-    {
-      "id": 2,
-      "author": "Ana Suárez",
-      "comment": "Esperemos que la investigación continúe avanzando, es una gran noticia.",
-      "likes": 150
-    },
-    {
-      "id": 3,
-      "author": "José Pérez",
-      "comment": "La inteligencia artificial está revolucionando todas las áreas, muy interesante.",
-      "likes": 175
-    },
-    {
-      "id": 4,
-      "author": "Sofía Rivas",
-      "comment": "Visitar las Montañas Arcoíris ha sido siempre mi sueño, ¡qué paisaje tan increíble!",
-      "likes": 220
-    },
-    {
-      "id": 5,
-      "author": "Miguel Álvarez",
-      "comment": "Increíble combinación de historia y modernidad. Me encantaría visitar ese templo.",
-      "likes": 105
-    },
-    {
-      "id": 6,
-      "author": "Laura García",
-      "comment": "¡Qué vistas tan espectaculares debe ofrecer ese tren! Definitivamente en mi lista de deseos.",
-      "likes": 132
-    },
-    {
-      "id": 7,
-      "author": "Andrea López",
-      "comment": "BTS sigue demostrando su poderío en la industria musical, muy merecido.",
-      "likes": 345
-    },
-    {
-      "id": 8,
+      "id": 10,
+      "newId": 8,
       "author": "Daniel Hernández",
       "comment": "Interesante ver cómo la moda urbana sigue evolucionando hacia un enfoque más sostenible.",
       "likes": 78
