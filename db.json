@@ -4,8 +4,8 @@
       "categories": "science",
       "id": 1,
       "title": "Descubren Agua en la Luna",
-      "image": "https://example.com/luna_agua.jpg",
-      "content": "Un equipo de científicos ha confirmado la presencia de agua en la Luna...",
+      "image": "http://localhost:5000/images/new01.webp",
+      "content": "Un equipo internacional de científicos ha confirmado la presencia de agua en la Luna, lo que representa un gran avance para la exploración espacial. Utilizando instrumentos avanzados a bordo de satélites y telescopios, los investigadores han detectado moléculas de agua atrapadas en pequeñas bolsas de hielo en la superficie lunar. Este descubrimiento tiene implicaciones importantes para futuras misiones a la Luna, facilitando la posibilidad de establecer colonias sostenibles.\n\nEl hallazgo sugiere que el agua puede estar más ampliamente distribuida de lo que se pensaba anteriormente. Esto abre nuevas posibilidades para la extracción de recursos lunares y la producción de agua potable y combustible en futuras misiones. Además, plantea interrogantes sobre cómo llegó el agua a la Luna y qué otros recursos podrían estar ocultos bajo su superficie.\n\nEste descubrimiento también podría tener implicaciones más allá de la Luna, ya que podría ayudar a los científicos a comprender mejor los procesos que permiten la formación de agua en otros cuerpos celestes.",
       "author": "María López",
       "date": "2024/09/15",
       "views": 0
@@ -14,8 +14,8 @@
       "categories": "science",
       "id": 2,
       "title": "Nuevo Avance en la Cura del Cáncer",
-      "image": "https://example.com/cancer_terapia.jpg",
-      "content": "Un equipo de investigadores ha desarrollado una nueva terapia genética...",
+      "image": "http://localhost:5000/images/new02.jpg",
+      "content": "Un equipo de investigadores ha desarrollado una nueva terapia genética que podría cambiar el tratamiento del cáncer tal como lo conocemos. Utilizando tecnología de edición genética, los científicos han logrado atacar células cancerosas de manera más precisa y efectiva, reduciendo los efectos secundarios para los pacientes. Este avance promete una nueva era en el tratamiento oncológico, donde las terapias serán más personalizadas y dirigidas específicamente al tipo de cáncer de cada paciente.\n\nEste desarrollo es el resultado de años de investigación y pruebas clínicas, y aunque todavía queda camino por recorrer antes de que esté disponible para el público, los primeros resultados son prometedores. Los expertos creen que esta terapia podría salvar millones de vidas y reducir la mortalidad por cáncer en las próximas décadas.\n\nAdemás, este avance abre la puerta a nuevas investigaciones en otros campos de la medicina, como el tratamiento de enfermedades genéticas. La comunidad científica está optimista ante los resultados obtenidos hasta ahora y confía en que este descubrimiento marcará un antes y un después en la lucha contra el cáncer.",
       "author": "Juan Pérez",
       "date": "2024/09/12",
       "views": 0
@@ -24,8 +24,8 @@
       "categories": "science",
       "id": 3,
       "title": "Inteligencia Artificial Descubre Nuevas Moléculas",
-      "image": "https://example.com/ia_moleculas.jpg",
-      "content": "Investigadores han utilizado inteligencia artificial (IA) para identificar...",
+      "image": "http://localhost:5000/images/new03.webp",
+      "content": "La inteligencia artificial (IA) ha alcanzado un nuevo hito al descubrir moléculas completamente desconocidas para la ciencia. Investigadores de todo el mundo están utilizando algoritmos avanzados de IA para analizar millones de compuestos químicos en busca de nuevas moléculas con aplicaciones en la medicina, la energía y otros campos. Este avance está revolucionando la forma en que se desarrollan nuevos medicamentos, permitiendo a los científicos descubrir posibles tratamientos para enfermedades hasta ahora intratables.\n\nEl uso de la IA en la investigación científica ha permitido acelerar el proceso de descubrimiento de moléculas, que normalmente tomaría décadas. Los investigadores están emocionados por las posibilidades que esto abre, ya que las nuevas moléculas descubiertas podrían tener propiedades únicas que transformen industrias enteras. Este avance demuestra el inmenso potencial de la inteligencia artificial aplicada a la ciencia.\n\nEn los próximos años, se espera que la IA siga desempeñando un papel fundamental en la investigación química, facilitando descubrimientos que antes eran inimaginables. Este desarrollo también podría tener implicaciones para el desarrollo de nuevos materiales y tecnologías sostenibles.",
       "author": "Ana Rodríguez",
       "date": "2024/09/10",
       "views": 0
@@ -34,8 +34,8 @@
       "categories": "travel",
       "id": 4,
       "title": "El Misterio de las Montañas Arcoíris en Perú",
-      "image": "https://example.com/montanas_arcoiris.jpg",
-      "content": "Las impresionantes Montañas Arcoíris en Perú se han convertido en un...",
+      "image": "http://localhost:5000/images/new04.jpg",
+      "content": "Las Montañas Arcoíris de Perú, también conocidas como Vinicunca, han fascinado a viajeros de todo el mundo con sus vibrantes colores naturales que parecen sacados de un sueño. Estas montañas, ubicadas en los Andes, se formaron hace millones de años debido a la deposición de minerales que han dado lugar a los colores rojos, amarillos y verdes que las caracterizan. A pesar de su belleza, su accesibilidad sigue siendo limitada, lo que agrega un aire de misterio a su atractivo.\n\nRecientemente, el turismo hacia las Montañas Arcoíris ha crecido significativamente, convirtiéndolas en un destino imperdible para quienes visitan Perú. Sin embargo, con este aumento del turismo también han surgido preocupaciones sobre la preservación del lugar y el impacto medioambiental que podría tener un flujo constante de visitantes.\n\nLas autoridades locales están trabajando en medidas para proteger este tesoro natural y asegurar que las generaciones futuras puedan seguir disfrutando de su majestuosidad. Las Montañas Arcoíris no solo son un espectáculo visual, sino también un recordatorio de la asombrosa capacidad de la naturaleza para crear belleza en los lugares más inesperados.",
       "author": "Carlos García",
       "date": "2024/08/25",
       "views": 0
@@ -44,8 +44,8 @@
       "categories": "travel",
       "id": 5,
       "title": "Japón Abre un Hotel en un Templo Budista",
-      "image": "https://example.com/templo_budista_hotel.jpg",
-      "content": "En Kioto, un antiguo templo budista ha sido renovado y ahora funciona...",
+      "image": "http://localhost:5000/images/new05.jpg",
+      "content": "En un esfuerzo por combinar la tradición con la modernidad, Japón ha inaugurado un hotel dentro de un antiguo templo budista en Kioto. Este innovador proyecto ofrece a los huéspedes una experiencia única, permitiéndoles dormir en un entorno lleno de historia y espiritualidad. El templo ha sido cuidadosamente restaurado para mantener su integridad arquitectónica, mientras que las habitaciones del hotel ofrecen comodidades modernas.\n\nLos visitantes pueden participar en rituales budistas y meditar en los tranquilos jardines del templo, lo que ofrece una oportunidad para desconectar del bullicio de la vida moderna. Además, el hotel organiza recorridos por el templo, donde los huéspedes pueden aprender sobre la historia y la filosofía budista, así como participar en ceremonias tradicionales.\n\nEste nuevo enfoque al turismo en Japón está atrayendo tanto a viajeros interesados en la espiritualidad como a aquellos que buscan una experiencia cultural auténtica. La combinación de lujo moderno con el ambiente sagrado de un templo budista es una muestra del equilibrio que Japón ha logrado entre lo antiguo y lo nuevo.",
       "author": "Laura Fernández",
       "date": "2024/09/01",
       "views": 0
@@ -54,8 +54,8 @@
       "categories": "travel",
       "id": 6,
       "title": "Viaje en Tren por los Alpes Suizos",
-      "image": "https://example.com/tren_alpes.jpg",
-      "content": "Una nueva ruta turística en tren ofrece a los pasajeros la oportunidad...",
+      "image": "http://localhost:5000/images/new06.jpg",
+      "content": "Una nueva ruta turística en tren por los Alpes Suizos está capturando la atención de viajeros de todo el mundo. Este recorrido ofrece a los pasajeros la oportunidad de contemplar algunos de los paisajes más impresionantes de Europa, desde majestuosas montañas cubiertas de nieve hasta verdes valles llenos de vida. A lo largo del trayecto, el tren pasa por pintorescos pueblos y estaciones de esquí, brindando una experiencia única tanto en invierno como en verano.\n\nEl tren, equipado con ventanales panorámicos, permite a los pasajeros disfrutar de vistas espectaculares sin importar dónde estén sentados. Durante el recorrido, los viajeros también pueden degustar la gastronomía local en los vagones restaurante, que ofrecen delicias suizas como quesos, chocolates y vinos. Este viaje no es solo una experiencia visual, sino también una inmersión en la cultura y tradiciones suizas.\n\nCon un enfoque en el turismo sostenible, esta nueva ruta ferroviaria busca atraer a aquellos que desean disfrutar de la belleza natural sin dejar una gran huella de carbono. Los organizadores esperan que este tren se convierta en una atracción imperdible para los amantes de la naturaleza y el lujo.",
       "author": "Sofía Martínez",
       "date": "2024/08/15",
       "views": 0
@@ -64,8 +64,8 @@
       "categories": "culture",
       "id": 7,
       "title": "Nuevo Álbum de BTS Rompe Récords",
-      "image": "https://example.com/bts_album.jpg",
-      "content": "El grupo surcoreano BTS ha lanzado un nuevo álbum que ha arrasado...",
+      "image": "http://localhost:5000/images/new07.webp",
+      "content": "El grupo surcoreano BTS ha lanzado un nuevo álbum que está rompiendo récords en todo el mundo. Con millones de copias vendidas en sus primeras semanas, el álbum ha consolidado a BTS como uno de los grupos más exitosos de la historia de la música. Las canciones, que mezclan géneros como el pop, hip-hop y R&B, han sido elogiadas por críticos y fans por igual, destacando la evolución artística de los miembros del grupo.\n\nEste éxito no es solo musical, sino también cultural, ya que BTS sigue siendo un referente global de la música y el entretenimiento. Su nuevo trabajo ha generado una ola de entusiasmo en las redes sociales, donde millones de fanáticos alrededor del mundo comparten sus opiniones y teorías sobre el significado de las letras y los videos musicales que acompañan al álbum. La gira mundial que acompaña el lanzamiento ya ha agotado las entradas en numerosas ciudades.\n\nCon cada nuevo lanzamiento, BTS sigue redefiniendo los límites del éxito en la industria musical, rompiendo barreras lingüísticas y culturales. Este álbum no solo es una prueba de su popularidad, sino también de su capacidad para innovar y conectar con una audiencia global.",
       "author": "Luis Ramírez",
       "date": "2024/09/05",
       "views": 0
@@ -74,8 +74,8 @@
       "categories": "culture",
       "id": 8,
       "title": "Nuevas Tendencias en la Moda Urbana",
-      "image": "https://example.com/moda_urbana.jpg",
-      "content": "La moda urbana ha experimentado una evolución significativa...",
+      "image": "http://localhost:5000/images/new08.jpg",
+      "content": "La moda urbana está experimentando una evolución notable, con nuevas tendencias que están tomando las calles de las principales ciudades del mundo. Influenciada por el streetwear, el skate y la cultura del hip-hop, la moda urbana ha adoptado una estética más sostenible y consciente del medio ambiente. Los diseñadores están experimentando con materiales reciclados, prendas oversize y estilos que combinan funcionalidad y estilo, lo que refleja el deseo de los consumidores de vestirse de manera ética y responsable.\n\nAdemás de la sostenibilidad, la moda urbana se ha convertido en un vehículo para la autoexpresión, donde los individuos pueden mostrar su identidad y su cultura a través de su estilo. Las marcas están colaborando con artistas y diseñadores independientes para crear colecciones limitadas que resuenan con las comunidades locales, haciendo que cada prenda cuente una historia única.\n\nEn las pasarelas y en las calles, la moda urbana continúa siendo un reflejo del espíritu de la juventud y la creatividad. Con la creciente influencia de las redes sociales, estas tendencias se están expandiendo más rápido que nunca, convirtiendo las calles en el nuevo escenario de la moda global.",
       "author": "Andrea Morales",
       "date": "2024/08/30",
       "views": 2
@@ -84,28 +84,28 @@
       "categories": "culture",
       "id": 9,
       "title": "Cultura Graffiti en las Grandes Ciudades",
-      "image": "https://example.com/graffiti_cultura.jpg",
-      "content": "El graffiti se ha consolidado como una forma legítima de arte urbano...",
+      "image": "http://localhost:5000/images/new09.jpg",
+      "content": "El graffiti ha evolucionado de ser considerado un acto de vandalismo a convertirse en una forma legítima de arte urbano. En muchas grandes ciudades, los murales y las piezas de graffiti adornan edificios y espacios públicos, transformando paisajes urbanos en galerías al aire libre. Esta cultura, que tiene sus raíces en la contracultura de las décadas de 1970 y 1980, ha ganado respeto y admiración a lo largo de los años, y ahora es una herramienta poderosa de expresión social y política.\n\nArtistas de graffiti de todo el mundo utilizan sus creaciones para abordar temas como la desigualdad, el racismo y el cambio climático, creando obras que invitan a la reflexión y el debate. En ciudades como Nueva York, Berlín y São Paulo, el graffiti se ha convertido en una parte integral de la identidad visual de estos lugares, atrayendo a turistas y entusiastas del arte de todas partes del mundo.\n\nEl auge de la cultura del graffiti también ha dado lugar a festivales de arte urbano, donde los artistas tienen la oportunidad de mostrar su trabajo en espacios dedicados. Con el tiempo, lo que una vez fue una forma de protesta ha evolucionado para convertirse en una forma de arte contemporáneo que desafía los límites de la creatividad.",
       "author": "Fernando Gutiérrez",
       "date": "2024/09/08",
-      "views": 8
+      "views": 16
     },
     {
       "categories": "sustainability",
       "id": 10,
       "title": "Nuevas Energías Renovables Impulsan el Futuro",
-      "image": "https://example.com/energias_renovables.jpg",
-      "content": "Las energías renovables están creciendo rápidamente y se están...",
+      "image": "http://localhost:5000/images/new10.jpg",
+      "content": "Las energías renovables están avanzando a pasos agigantados, con nuevas tecnologías que están transformando la forma en que el mundo genera y consume energía. Fuentes como la solar, la eólica y la geotérmica están ganando terreno rápidamente, proporcionando alternativas limpias y sostenibles a los combustibles fósiles. A medida que los costos de estas tecnologías continúan disminuyendo, más países están adoptando energías renovables como parte de su estrategia para combatir el cambio climático.\n\nLas innovaciones en almacenamiento de energía también están desempeñando un papel crucial en este cambio, permitiendo que la electricidad generada por fuentes renovables se almacene de manera más eficiente y se utilice cuando más se necesita. Con avances en baterías de larga duración y redes eléctricas inteligentes, el futuro de la energía renovable parece más prometedor que nunca.\n\nEste impulso hacia las energías limpias no solo está ayudando a reducir las emisiones de carbono, sino que también está creando millones de empleos en todo el mundo. A medida que más países invierten en infraestructura verde, las energías renovables están impulsando un crecimiento económico sostenible y un futuro más limpio para el planeta.",
       "author": "Carolina Navarro",
       "date": "2024/09/14",
-      "views": 7
+      "views": 15
     },
     {
       "categories": "sustainability",
       "id": 11,
       "title": "Supermercados Libres de Plástico: Una Realidad",
-      "image": "https://example.com/supermercado_sin_plastico.jpg",
-      "content": "Varios supermercados en Europa y América Latina han comenzado...",
+      "image": "http://localhost:5000/images/new11.jpg",
+      "content": "Cada vez más supermercados en Europa y América Latina están implementando políticas para reducir o eliminar por completo el uso de plásticos de un solo uso. Esto incluye la sustitución de bolsas plásticas por alternativas reutilizables, el uso de envases biodegradables y la venta de productos a granel para reducir el empaquetado innecesario. Estas iniciativas son parte de un esfuerzo global por disminuir la contaminación por plásticos, que ha alcanzado niveles alarmantes en océanos y ecosistemas de todo el mundo.\n\nLos supermercados están colaborando con proveedores y fabricantes para desarrollar nuevos modelos de negocio sostenibles. Los consumidores también están respondiendo positivamente a estas medidas, mostrando una creciente demanda por productos y envases respetuosos con el medio ambiente. A medida que más personas se conciencian sobre el impacto del plástico en el planeta, los supermercados libres de plástico están ganando popularidad.\n\nAunque todavía queda mucho por hacer para eliminar el plástico de la cadena de suministro alimentaria, estos primeros pasos son fundamentales para crear un cambio duradero. Con el tiempo, se espera que más países y empresas adopten este modelo, marcando el inicio de una nueva era en el consumo consciente.",
       "author": "Miguel Sánchez",
       "date": "2024/08/20",
       "views": 0
@@ -114,8 +114,8 @@
       "categories": "sustainability",
       "id": 12,
       "title": "Ciudades Sostenibles: El Futuro Urbano",
-      "image": "https://example.com/ciudades_sostenibles.jpg",
-      "content": "Las ciudades verdes y sostenibles están transformando la vida...",
+      "image": "http://localhost:5000/images/new12.jpg",
+      "content": "A medida que las ciudades crecen, también lo hace la necesidad de hacerlas más sostenibles. Las ciudades verdes y sostenibles están diseñadas para reducir su impacto en el medio ambiente mediante el uso de energías renovables, sistemas de transporte público eficientes y políticas de reciclaje avanzadas. Estas ciudades están invirtiendo en infraestructura verde, como techos y paredes vegetales, parques urbanos y edificios energéticamente eficientes.\n\nAdemás de los beneficios ambientales, las ciudades sostenibles también mejoran la calidad de vida de sus habitantes al proporcionar espacios verdes, aire limpio y acceso a recursos comunitarios. Ciudades como Copenhague, Ámsterdam y Singapur están liderando el camino en este sentido, demostrando que es posible construir entornos urbanos que sean tanto modernos como respetuosos con el medio ambiente.\n\nEl futuro de las ciudades depende de nuestra capacidad para innovar y adaptarnos a los desafíos del cambio climático. Con un enfoque en la sostenibilidad, las ciudades pueden convertirse en centros de crecimiento económico y social, al mismo tiempo que preservan los recursos naturales para las generaciones futuras.",
       "author": "Lucía Ortega",
       "date": "2024/09/02",
       "views": 3
@@ -124,8 +124,8 @@
       "categories": "lifestyle",
       "id": 13,
       "title": "Los Juegos Olímpicos 2024 Serán Más Verdes",
-      "image": "https://example.com/juegos_olimpicos_verdes.jpg",
-      "content": "Los organizadores de los Juegos Olímpicos de París 2024 han...",
+      "image": "http://localhost:5000/images/new13.webp",
+      "content": "Los organizadores de los Juegos Olímpicos de París 2024 han anunciado un ambicioso plan para hacer que el evento sea lo más sostenible posible. Desde la construcción de estadios con materiales reciclados hasta el uso de energía 100% renovable durante las competiciones, los Juegos Olímpicos de 2024 buscan establecer un nuevo estándar para eventos deportivos ecológicos. También se están implementando medidas para reducir la huella de carbono de los desplazamientos de los atletas y asistentes, incentivando el uso del transporte público y compartido.\n\nAdemás de las infraestructuras sostenibles, los organizadores están promoviendo el reciclaje y la reducción de residuos durante el evento. Las villas olímpicas estarán equipadas con sistemas avanzados de gestión de residuos, y se fomentará el uso de envases biodegradables y reciclables entre los visitantes. Este esfuerzo por hacer los Juegos Olímpicos más verdes ha sido bien recibido por organizaciones medioambientales, que ven este evento como una oportunidad para concienciar sobre la importancia de la sostenibilidad.\n\nCon estos cambios, los Juegos Olímpicos de París 2024 no solo destacarán por las impresionantes actuaciones de los atletas, sino también por su compromiso con el planeta. Se espera que este enfoque inspire a futuros eventos deportivos a adoptar prácticas más ecológicas.",
       "author": "Pedro Ruiz",
       "date": "2024/09/10",
       "views": 0
@@ -134,8 +134,8 @@
       "categories": "lifestyle",
       "id": 14,
       "title": "Maratón Mundial Virtual: Un Éxito",
-      "image": "https://example.com/maraton_virtual.jpg",
-      "content": "Miles de corredores de todo el mundo participaron en la primera...",
+      "image": "http://localhost:5000/images/new14.jpg",
+      "content": "Miles de corredores de todo el mundo participaron en la primera edición de la Maratón Mundial Virtual, un evento que ha demostrado ser un éxito rotundo. Utilizando aplicaciones móviles y dispositivos de seguimiento GPS, los participantes pudieron correr en sus propios países mientras competían simultáneamente con corredores de otras partes del mundo. Este formato innovador ha permitido que personas de diferentes culturas y orígenes se unan en una experiencia deportiva única.\n\nEl evento también incluyó desafíos personalizados, donde los corredores podían elegir distancias más cortas si lo deseaban, lo que permitió que más personas se unieran al maratón, independientemente de su nivel de condición física. Los organizadores han destacado que este tipo de evento podría convertirse en una tradición anual, ya que combina la accesibilidad del deporte con la emoción de una competencia global.\n\nAdemás de su éxito deportivo, el maratón ha servido para recaudar fondos para diversas causas benéficas, lo que añade un componente altruista a la experiencia. Con la tecnología cada vez más presente en el deporte, se espera que este tipo de eventos virtuales continúen creciendo en popularidad.",
       "author": "Claudia Gómez",
       "date": "2024/09/05",
       "views": 5
@@ -144,8 +144,8 @@
       "categories": "lifestyle",
       "id": 15,
       "title": "El Futuro del Fútbol Femenino",
-      "image": "https://example.com/futbol_femenino.jpg",
-      "content": "El fútbol femenino sigue ganando popularidad a nivel mundial...",
+      "image": "http://localhost:5000/images/new15.jpg",
+      "content": "El fútbol femenino sigue ganando popularidad a nivel mundial, con más ligas, torneos y oportunidades para las jugadoras que nunca antes. Las audiencias televisivas han crecido significativamente, y las marcas están invirtiendo en patrocinios y campañas de apoyo para fomentar el crecimiento del deporte. En muchos países, las jugadoras están rompiendo barreras, exigiendo igualdad de condiciones y salarios en comparación con sus contrapartes masculinas.\n\nEste aumento en la visibilidad ha llevado a un cambio cultural, donde el fútbol femenino está siendo tomado más en serio tanto por los medios de comunicación como por los aficionados. En torneos internacionales como la Copa del Mundo Femenina, se ha visto un nivel de competitividad y habilidades que rivaliza con el fútbol masculino, lo que ha ayudado a atraer a nuevos seguidores al deporte.\n\nCon el impulso actual, el futuro del fútbol femenino parece más brillante que nunca. Las generaciones más jóvenes de jugadoras tienen más oportunidades para desarrollar sus habilidades, y las ligas profesionales están proporcionando plataformas para que estas atletas demuestren su talento en los escenarios más importantes del mundo.",
       "author": "Sara Delgado",
       "date": "2024/08/25",
       "views": 0
@@ -154,8 +154,8 @@
       "categories": "lifestyle",
       "id": 16,
       "title": "Nuevas Normas de Privacidad en Internet para Niños",
-      "image": "https://example.com/privacidad_infantil.jpg",
-      "content": "Nuevas leyes en varios países han impuesto límites más estrictos...",
+      "image": "http://localhost:5000/images/new16.jpg",
+      "content": "Con el auge de las plataformas en línea y el uso creciente de internet por parte de los niños, varios países han implementado nuevas leyes para proteger la privacidad de los menores. Estas normativas imponen límites más estrictos a las empresas tecnológicas sobre la recopilación de datos de niños, exigiendo que los padres den su consentimiento antes de que cualquier información sea recolectada. Además, las plataformas deben ofrecer configuraciones de privacidad diseñadas específicamente para usuarios jóvenes.\n\nEstas nuevas reglas tienen como objetivo mitigar los riesgos asociados con la exposición de los niños a internet, como el robo de identidad y la explotación de datos personales. Muchas empresas están actualizando sus políticas de privacidad y rediseñando sus plataformas para cumplir con los nuevos requisitos, lo que incluye proporcionar herramientas para que los padres supervisen las actividades en línea de sus hijos.\n\nSi bien estas leyes son un paso en la dirección correcta, algunos expertos señalan que la implementación y el cumplimiento de las mismas serán claves para garantizar su efectividad. Se espera que, con el tiempo, más países sigan el ejemplo de estas normativas para crear un entorno en línea más seguro para los niños.",
       "author": "Laura Muñoz",
       "date": "2024/08/20",
       "views": 0
@@ -164,8 +164,8 @@
       "categories": "lifestyle",
       "id": 17,
       "title": "Apps Educativas Bajo la Lupa por Seguridad",
-      "image": "https://example.com/apps_educativas_seguridad.jpg",
-      "content": "Diversas plataformas educativas que son utilizadas por millones...",
+      "image": "http://localhost:5000/images/new17.jpg",
+      "content": "Diversas plataformas educativas que son utilizadas por millones de estudiantes en todo el mundo están bajo la lupa por sus prácticas de seguridad y privacidad. En los últimos meses, varios incidentes han expuesto vulnerabilidades en las apps, lo que ha generado preocupación entre padres, maestros y expertos en ciberseguridad. Estas plataformas, que ofrecen desde tutorías hasta clases en línea, han sido objeto de críticas por no implementar medidas de protección adecuadas para los datos de los usuarios más jóvenes.\n\nLos expertos en seguridad están instando a las empresas tecnológicas a mejorar sus protocolos de cifrado y a garantizar que los datos de los estudiantes estén protegidos contra posibles ataques cibernéticos. Además, se ha propuesto que las plataformas sean más transparentes sobre cómo utilizan los datos recopilados y quién tiene acceso a ellos.\n\nMientras las apps educativas continúan desempeñando un papel crucial en la educación moderna, la necesidad de una mayor regulación y supervisión se vuelve más evidente. Las empresas deben asumir la responsabilidad de proteger a sus usuarios y garantizar que los estudiantes puedan aprender en un entorno digital seguro.",
       "author": "Andrés Silva",
       "date": "2024/09/10",
       "views": 0
@@ -174,14 +174,13 @@
       "categories": "lifestyle",
       "id": 18,
       "title": "Protección Legal para Compras Online Infantiles",
-      "image": "https://example.com/proteccion_compras_online.jpg",
-      "content": "Nuevas leyes han sido implementadas en varios países para...",
+      "image": "http://localhost:5000/images/new18.jpg",
+      "content": "Nuevas leyes han sido implementadas en varios países para proteger a los niños de realizar compras no autorizadas en línea. Estas regulaciones exigen que las aplicaciones y sitios web de comercio electrónico incluyan medidas de verificación de edad y requieran el consentimiento de los padres antes de que los menores puedan realizar cualquier transacción. Esta iniciativa surge después de numerosos casos en los que niños hicieron compras considerables sin el conocimiento o autorización de sus padres.\n\nAdemás de las protecciones legales, las plataformas están implementando herramientas para que los padres puedan monitorear y controlar las compras en línea de sus hijos. Estas medidas incluyen la posibilidad de establecer límites de gasto, recibir notificaciones de compra y bloquear ciertos tipos de transacciones.\n\nLa esperanza es que estas nuevas leyes y herramientas reduzcan significativamente el número de incidentes relacionados con compras no autorizadas por menores, lo que también brindará tranquilidad a los padres. Se espera que más países adopten regulaciones similares para hacer frente a este problema creciente en la era del comercio digital.",
       "author": "Elena Vargas",
       "date": "2024/09/05",
       "views": 0
     }
   ],
-  
   "comments": [
     {
       "id": 1,
