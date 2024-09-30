@@ -184,11 +184,165 @@
   
   "comments": [
     {
+      "id": 1,
+      "newId": 1,
+      "author": "Carlos Méndez",
+      "comment": "Increíble descubrimiento, esto cambiará el futuro de las misiones espaciales.",
+      "likes": 9
+    },
+    {
+      "id": 2,
+      "newId": 1,
+      "author": "Lucía Romero",
+      "comment": "Me encantaría saber más sobre cómo utilizarán este recurso en futuras colonias.",
+      "likes": 7
+    },
+    {
+      "id": 3,
+      "newId": 2,
+      "author": "Javier Torres",
+      "comment": "Este avance es muy prometedor, podría salvar millones de vidas.",
+      "likes": 8
+    },
+    {
+      "id": 4,
+      "newId": 2,
+      "author": "Ana Suárez",
+      "comment": "Esperemos que la investigación continúe avanzando, es una gran noticia.",
+      "likes": 6
+    },
+    {
+      "id": 5,
+      "newId": 3,
+      "author": "José Pérez",
+      "comment": "La inteligencia artificial está revolucionando todas las áreas, muy interesante.",
+      "likes": 5
+    },
+    {
+      "id": 6,
+      "newId": 4,
+      "author": "Sofía Rivas",
+      "comment": "Visitar las Montañas Arcoíris ha sido siempre mi sueño, ¡qué paisaje tan increíble!",
+      "likes": 8
+    },
+    {
+      "id": 7,
+      "newId": 5,
+      "author": "Miguel Álvarez",
+      "comment": "Increíble combinación de historia y modernidad. Me encantaría visitar ese templo.",
+      "likes": 7
+    },
+    {
+      "id": 8,
+      "newId": 6,
+      "author": "Laura Hernández",
+      "comment": "Ese tren parece una experiencia mágica. ¡Definitivamente lo voy a poner en mi lista de deseos!",
+      "likes": 4
+    },
+    {
+      "id": 9,
+      "newId": 7,
+      "author": "Andrea López",
+      "comment": "BTS sigue demostrando su poderío en la industria musical, muy merecido.",
+      "likes": 9
+    },
+    {
       "id": 10,
       "newId": 8,
       "author": "Daniel Hernández",
       "comment": "Interesante ver cómo la moda urbana sigue evolucionando hacia un enfoque más sostenible.",
-      "likes": 78
+      "likes": 6
+    },
+    {
+      "id": 11,
+      "newId": 9,
+      "author": "Sara García",
+      "comment": "El graffiti es un arte increíble y una gran forma de expresión en las ciudades.",
+      "likes": 8
+    },
+    {
+      "id": 12,
+      "newId": 10,
+      "author": "Luis Gómez",
+      "comment": "Las energías renovables son el futuro. Me alegra ver que están creciendo tan rápido.",
+      "likes": 5
+    },
+    {
+      "id": 13,
+      "newId": 11,
+      "author": "Camila Silva",
+      "comment": "¡Por fin! Supermercados libres de plástico es algo que necesitábamos hace mucho tiempo.",
+      "likes": 4
+    },
+    {
+      "id": 14,
+      "newId": 12,
+      "author": "Esteban Ortiz",
+      "comment": "Ciudades sostenibles son el futuro. Espero que más ciudades adopten estas iniciativas.",
+      "likes": 9
+    },
+    {
+      "id": 15,
+      "newId": 13,
+      "author": "Carlos Ramos",
+      "comment": "Me emociona ver que los Juegos Olímpicos 2024 serán más verdes. ¡Es lo que necesitamos!",
+      "likes": 7
+    },
+    {
+      "id": 16,
+      "newId": 14,
+      "author": "Elena Fernández",
+      "comment": "Participar en un maratón virtual es algo increíble. ¡Espero unirme a la próxima!",
+      "likes": 6
+    },
+    {
+      "id": 17,
+      "newId": 15,
+      "author": "Raúl Torres",
+      "comment": "El fútbol femenino está tomando el lugar que merece. Es un deporte increíble que está creciendo.",
+      "likes": 5
+    },
+    {
+      "id": 18,
+      "newId": 16,
+      "author": "Patricia López",
+      "comment": "Es bueno ver que hay más control sobre la privacidad infantil en internet.",
+      "likes": 8
+    },
+    {
+      "id": 19,
+      "newId": 17,
+      "author": "Jorge Díaz",
+      "comment": "Es preocupante que las apps educativas no sean más seguras para los niños. Es urgente mejorar esto.",
+      "likes": 3
+    },
+    {
+      "id": 20,
+      "newId": 18,
+      "author": "Claudia Méndez",
+      "comment": "Estas nuevas regulaciones son necesarias. Las compras no autorizadas en línea son un gran problema.",
+      "likes": 4
+    },
+    {
+      "id": 21,
+      "newId": 19,
+      "author": "Pedro Ruiz",
+      "comment": "React es una herramienta poderosa, ¡me encanta usarla para mis proyectos!",
+      "likes": 9
+    },
+    {
+      "id": 22,
+      "newId": 20,
+      "author": "Santiago Vargas",
+      "comment": "El sistema de noticias es súper funcional. ¡Gran trabajo en la implementación!",
+      "likes": 8
+    },
+    {
+      "id": 23,
+      "newId": 21,
+      "author": "Carmen Pérez",
+      "comment": "Este feed de noticias se ve muy prometedor. ¡Espero seguir viendo más contenido!",
+      "likes": 10
     }
   ]
 }
