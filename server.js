@@ -9,7 +9,7 @@ const allowAccessFromAnywhere = (req, res, next) => {
   next()
 }
 server.use(allowAccessFromAnywhere)
-server.use(jsonServer.defaults({ static: 'public' })) // Servir archivos desde la carpeta 'public'
+//server.use(jsonServer.defaults({ static: 'public' })) // Servir archivos desde la carpeta 'public'
 
 const router = jsonServer.router('db.json') // automatically creates all CRUD routes for a DB as a json file
 server.use(router)
