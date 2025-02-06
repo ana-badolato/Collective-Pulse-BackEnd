@@ -1,19 +1,19 @@
 require('dotenv').config()
-const jsonServer = require('json-server') // to start building the server
-const server = jsonServer.create() // to create the Server Object. All BE logic will start from it.
-const middlewares = jsonServer.defaults() // to set common configurations from the jsonServer library
+const jsonServer = require('json-server')
+const server = jsonServer.create()
+const middlewares = jsonServer.defaults({ static: 'public' }) // Servir archivos desde la carpeta 'public'
 server.use(middlewares)
+
 const allowAccessFromAnywhere = (req, res, next) => {
-  // this function makes the code accesible from anywhere
   res.header('Access-Control-Allow-Origin', '*')
   next()
 }
 server.use(allowAccessFromAnywhere)
-// server.use(jsonServer.defaults({ static: 'public' })) // Servir archivos desde la carpeta 'public'
 
-const router = jsonServer.router('db.json') // automatically creates all CRUD routes for a DB as a json file
+const router = jsonServer.router('db.json')
 server.use(router)
-const PORT = process.env.PORT
+
+const PORT = process.env.PORT || 3000
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port ${PORT}`)
   console.log(`Local Access at http://localhost:${PORT}`)
