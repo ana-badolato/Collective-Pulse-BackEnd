@@ -1,7 +1,7 @@
 require('dotenv').config()
 const jsonServer = require('json-server')
 const server = jsonServer.create()
-const middlewares = jsonServer.defaults({ static: 'public' }) // Servir archivos desde la carpeta 'public'
+const middlewares = jsonServer.defaults({ static: 'public' }) // Servir archivos estáticos desde la carpeta 'public'
 server.use(middlewares)
 
 const allowAccessFromAnywhere = (req, res, next) => {
